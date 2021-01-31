@@ -1,3 +1,6 @@
 [submodule "ddm_client"]
 	path = ddm_client
 	url = https://github.com/yang-lile/ddm_client.git
+[submodule "ddm_server"]
+	path = ddm_server
+	url = https://github.com/yang-lile/ddm_server.git
