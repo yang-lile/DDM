@@ -4,3 +4,6 @@
 [submodule "ddm_server"]
 	path = ddm_server
 	url = https://github.com/yang-lile/ddm_server.git
+[submodule "ddm_gRPC"]
+	path = ddm_gRPC
+	url = https://github.com/yang-lile/ddm_gRPC.git
