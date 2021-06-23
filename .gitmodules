@@ -7,3 +7,6 @@
 [submodule "ddm_gRPC"]
 	path = ddm_gRPC
 	url = https://github.com/yang-lile/ddm_gRPC.git
+[submodule "ddm_website"]
+	path = ddm_website
+	url = https://github.com/yang-lile/ddm_website.git
